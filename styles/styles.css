@@ -1,0 +1,23 @@
+@charset "utf-8";
+/* CSS Document */
+
+img{
+    max-width: 100%;
+    height: auto;
+    margin-right: 30px;
+}
+body{
+    background-color:#f7fbfc;
+    color: #124142;
+}
+h1{
+    color: #2f5c8f;
+}
+
+.top-container{
+    display: flex;
+
+}
+p{
+    display: block;
+}
